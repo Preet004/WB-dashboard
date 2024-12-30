@@ -1,0 +1,18 @@
+.app-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .forms-container, .hierarchy-container {
+    margin: 20px 0;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .form input, .form select, .form button {
+    margin: 5px 0;
+    display: block;
+  }
+  
